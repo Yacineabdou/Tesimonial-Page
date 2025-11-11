@@ -50,3 +50,5 @@ Si les icônes (étoiles ou icône de citation) ne s'affichent pas, veuillez vou
 2. La version de Font Awesome 7 est compatible avec les classes utilisées (`fa-solid`).
 ##
 ![La capture du projet](./images/Capture%20d’écran%20.png)
+## 📱 Pour le mobile
+![La capture du projet](./images/Capture%20d’écran1.png)

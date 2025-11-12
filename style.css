@@ -139,7 +139,7 @@ body {
         margin: 0;
     }
 }
-@media (max-width: 375px) {
+@media (max-width: 425px) {
     .sect__cont {
         justify-content: center;
         text-align: center;
